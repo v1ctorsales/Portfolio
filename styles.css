@@ -1,0 +1,66 @@
+body{
+margin: 0;
+font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+    font-size: 48px;
+    font-weight: 400;
+    display: block;
+}
+
+h3{
+    font-size: 24px;
+    font-weight: 100;
+    line-height: 0%;
+}
+
+nav{
+    height: 50px;
+
+}
+
+.navul{
+    justify-content: center;
+    gap: 100px;
+    display: flex;
+    flex-direction: row;
+}
+
+ul li{
+    text-decoration: none;
+    list-style-type: none
+}
+
+span{
+font-weight: 400;
+}
+
+.titulo{
+    margin-top: 15%;
+    text-align: center;
+    display: block;
+}
+
+.inline{
+    display:inline-flex;
+}
+
+.mechamo{
+    margin-top: 48px;
+    align-items: center;
+    display: block;
+}
+
+.victor{
+    display:inline;
+    line-height: 0%;
+    margin-left: 9px;
+    margin-right: 9px;
+    display: block;
+}
+
+.cliqueaqui{
+    margin-top: 200px;
+    font-size: 18px;
+}
