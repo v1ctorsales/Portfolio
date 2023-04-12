@@ -33,9 +33,13 @@ nav{
     flex-direction: row;
 }
 
-.sec{
+.sec.home{
     position: relative;
     height: 65vh;
+}
+
+.sec{
+    height: 100vh;
 }
 
 ul li{
